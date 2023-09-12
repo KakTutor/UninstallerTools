@@ -1,4 +1,4 @@
-# UninstallerTools
+# Uninstaller Tools
 Revo Uninstaller adalah sebuah utilitas perangkat lunak yang
 digunakan untuk menghapus program-program yang terinstal di
 komputer Windows. Ini adalah alat yang berguna ketika Anda
